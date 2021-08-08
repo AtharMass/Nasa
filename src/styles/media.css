@@ -1,0 +1,16 @@
+.astronomy-image{
+    width:40%;
+    height: 40%;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.img-media-nasa{
+    height: 250px !important;
+}
+
+.image-style-home{
+    height: 40%;
+}
